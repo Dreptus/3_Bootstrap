@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "ONL_FER_W_15_JavaScript_Przygotowanie",
+			"path": "../../../../../coders_Lab/Java/ONL_FER_W_15_JavaScript_Przygotowanie"
+		},
+		{
+			"name": "ONL_FER_W_15_JavaScript",
+			"path": "../../../../../coders_Lab/Java/ONL_FER_W_15_JavaScript"
+		},
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../coders_Lab/ONL_FER_W_15_Sass_RWD"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ONL_FER_W_15_Sass_RWD"
+	}
+}
